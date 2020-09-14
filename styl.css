@@ -1,0 +1,42 @@
+.hel{
+    width: 50rem;
+    height: 30rem;
+    margin-left: 20rem;
+}
+.scl{
+    width: 56rem;
+    height: 35rem;
+    position: absolute;
+    left:22rem;
+    top:11rem;
+    background-color:greenyellow;
+    overflow: auto;
+    
+}
+.fot{
+    color: white;
+    margin-left: 20rem;
+}
+.maim{
+    width: 40rem;
+    height: 40rem;
+}
+.mapp{
+    height: 300px; 
+    width: 50rem;
+    margin-left: 25rem;
+}
+.medst{
+    width: 20rem;
+    height: 40rem;
+}
+.hme{
+    width: 50rem;
+    height: 45rem;
+}
+.colg{
+    position: absolute;
+    top:10rem;
+    left:25rem;
+   
+}
