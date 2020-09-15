@@ -1,0 +1,69 @@
+.hel{
+    width: 50rem;
+    height: 30rem;
+    margin-left: 20rem;
+}
+.scl{
+    width: 56rem;
+    height: 35rem;
+    position: absolute;
+    left:22rem;
+    top:11rem;
+    background-color:greenyellow;
+    overflow: auto;
+    
+}
+.fot{
+    color: white;
+    margin-left: 20rem;
+}
+.maim{
+    width: 40rem;
+    height: 40rem;
+}
+.mapp{
+    height: 300px; 
+    width: 50rem;
+    margin-left: 25rem;
+}
+.medst{
+    width: 20rem;
+    height: 40rem;
+}
+
+.colg{
+    position: absolute;
+    top:10rem;
+    left:25rem;
+   
+}
+.ste{
+    position: absolute;
+    left: 5rem;
+    top:9rem;
+}
+.ste1{
+    position: absolute;
+    left: 18rem;
+    top:9rem;
+    
+}
+.ste2{
+    position: absolute;
+    left: 28rem;
+    top:9rem;
+}
+.penl{
+    position:absolute;
+    top:9rem;
+    left:43rem;
+}
+.hmes{
+   
+    
+    width: 50rem;
+    height: 45rem;
+    margin-left:25rem;
+}
+
+
